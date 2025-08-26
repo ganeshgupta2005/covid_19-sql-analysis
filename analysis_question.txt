@@ -1,0 +1,10 @@
+Q1.Find the top 10 countries with the highest total cases?
+Q2.Find the top 5 countries with the highest death rate?
+Q3.Show daily new cases in India during 2020?
+Q4.Top 5 countries with the highest average daily new cases?
+Q5.Total deaths vs total cases per country?
+Q6.Countries with the fastest decrease in daily new cases?
+Q7.Deaths vs. prevalence of diabetes / cardiovascular disease?
+Q8.Show total COVID-19 cases per million for each country along with its GDP per capita?
+Q9.Find total deaths per million for countries with median age above 40?
+Q10.Find the month with the highest cases in 2020 for each country?
