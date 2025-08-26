@@ -42,4 +42,5 @@ This analysis helps identify:
 
 ## 👤 Author
 **Ganesh Gupta**  
-[LinkedIn Profile]((https://www.linkedin.com/in/ganeshgupta2005/)
+[LinkedIn Profile](https://www.linkedin.com/in/ganeshgupta2005/)
+
